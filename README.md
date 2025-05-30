@@ -37,3 +37,13 @@
 </div>
 
 ###
+
+<h2 align="left">Certificates</h2>
+
+###
+
+<div aligin="left">
+    <img src="images/Pasted image (2).png" height="40">
+    <img src="images/Pasted image (3).png" height="40">
+    <img src="images/Pasted image.png" height="40">
+</div>
