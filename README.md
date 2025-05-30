@@ -43,7 +43,7 @@
 ###
 
 <div aligin="left">
-    <img src="images/Pasted image (2).png" height="55">
-    <img src="images/Pasted image (3).png" height="55">
-    <img src="images/Pasted image.png" height="55">
+    <img src="images/Pasted image (2).png" height="55" />
+    <img src="images/Pasted image (3).png" height="55" />
+    <img src="images/Pasted image.png" height="55" />
 </div>
