@@ -43,7 +43,7 @@
 ###
 
 <div aligin="left">
-    <img src="images/Pasted CCNA3.png" height="55"  />
-    <img src="images/Pasted CCNA2.png" height="55"  />
-    <img src="images/Pasted javaScriptE1.png" height="55"  />
+    <img src="images/CCNA3.png" height="55"  />
+    <img src="images/CCNA2.png" height="55"  />
+    <img src="images/javaScriptE1.png" height="55"  />
 </div>
