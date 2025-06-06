@@ -52,4 +52,6 @@
 <h4 right="right">AWS</h4>
 <div aligin="right">
     <img src="images/aws1.png" height="55"  \n>
+    <img src="images/aws2.png" height="55"  \n>
+    <img src="images/aws3.png" height="55"  \n>
 </div>
