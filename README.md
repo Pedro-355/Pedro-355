@@ -43,8 +43,8 @@
 ###
 
 <div aligin="left">
-    <img src="images/CCNA3.png" height="55"  />
-    <img src="images/CCNA2.png" height="55"  />
-    <img src="images/javaScriptE1.png" height="55"  />
-    <img src="images/aws1.png" height="55"  />
+    <img src="images/CCNA3.png" height="45"  />
+    <img src="images/CCNA2.png" height="45"  />
+    <img src="images/javaScriptE1.png" height="45"  />
+    <img src="images/aws1.png" height="45"  />
 </div>
