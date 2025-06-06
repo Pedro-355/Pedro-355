@@ -49,7 +49,7 @@
     <img src="images/javaScriptE1.png" height="55"  \n>
 </div>
 
-<h3 right="left">AWS</h3>
-<div aligin="left">
+<h3 right="right">AWS</h3>
+<div aligin="right">
     <img src="images/aws1.png" height="55"  \n>
 </div>
