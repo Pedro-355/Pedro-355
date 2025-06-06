@@ -42,14 +42,14 @@
 
 ###
 
-<h3 align="left">CISCO</h3>
+<h4 align="left">CISCO</h4>
 <div aligin="left">
     <img src="images/CCNA3.png" height="55"  \n>
     <img src="images/CCNA2.png" height="55"  \n>
     <img src="images/javaScriptE1.png" height="55"  \n>
 </div>
 
-<h3 right="right">AWS</h3>
+<h4 right="right">AWS</h4>
 <div aligin="right">
     <img src="images/aws1.png" height="55"  \n>
 </div>
