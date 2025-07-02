@@ -55,3 +55,8 @@
     <img src="images/aws2.png" height="55"  \n>
     <img src="images/aws3.png" height="55"  \n>
 </div>
+
+<h4 right="right">GOOGLE</h4>
+<div aligin="right">
+    <img src="images/google.png" height="55"  \n>
+</div>
